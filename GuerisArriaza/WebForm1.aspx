@@ -11,6 +11,9 @@
 </head>
 <body>
     <form id="form1" runat="server">
+        <div class="stars"></div>
+        <div class="twinkling"></div> 
+        <div class="clouds"></div>
         <div = class="centered">
             <div class="typing">
                 <h1>Click Here</h1>

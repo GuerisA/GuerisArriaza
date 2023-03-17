@@ -68,6 +68,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CSS\Main.css" />
+    <Content Include="Images\clouds.png" />
+    <Content Include="Images\stars.png" />
+    <Content Include="Images\twinkling.png" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
   </ItemGroup>
